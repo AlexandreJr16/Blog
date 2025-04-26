@@ -15,7 +15,7 @@ Git para controle de versão
 ## Instalação
 1. Clone este repositório para o seu ambiente local:
 ```bash
-git clone https://github.com/seu-usuario/blog-rails.git
+git clone https://github.com/AlexandreJr16/Blog.git
 ```
 2. Instale as dependências do projeto:
 
